@@ -1,2 +1,6 @@
 “this is a test branch”
+<<<<<<< HEAD
 this is main new text
+=======
+new branch edit
+>>>>>>> newbranch
